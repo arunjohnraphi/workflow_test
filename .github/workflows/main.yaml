@@ -16,4 +16,4 @@ jobs:
         python-version: 3.x
 
     - name: Run Python program
-      run: python your_script.py
+      run: python main.py
